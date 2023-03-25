@@ -3,8 +3,8 @@ Date,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2023-03-25,13,6,17,1,996,77,partly cloudy/wind
 2023-03-24,13,7,20,1,996,77,partly cloudy/wind/showers
 2023-03-23,14,6,21,2,996,79,partly cloudy/wind/showers
-2023-03-22,14,6,18,2,999,68,sunny/partly cloudy/windy/showers
-2023-03-21,15,9,20,1,1007,85,cloudy/showers/windy
+2023-03-22,14,6,18,2,999,68,sunny/partly cloudy/wind/showers
+2023-03-21,15,9,20,1,1007,85,cloudy/showers/wind
 2023-03-20,14,9,13,1,1014,78,cloudy/light rain
 2023-03-19,11,5,10,0,1014,88,mostly cloudy
 2023-03-18,12,5,5,1,1006,85,cloudy/rain
@@ -13,7 +13,7 @@ Date,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2023-03-15,8,-2,14,2,1015,77,partly cloudy/rain
 2023-03-14,7,1,11,1,1003,82,partly cloudy
 2023-03-13,7,3,25,1,985,76,cloudy/light rain/wind
-2023-03-12,8,2,17,2,1005,73,cloudy/windy
+2023-03-12,8,2,17,2,1005,73,cloudy/wind
 2023-03-11,7,-4,3,0,1011,85,cloudy
 2023-03-10,4,-2,22,0,995,94,cloudy/snow/wind
 2023-03-09,3,0,13,0,986,94,cloudy/snow/rain
@@ -35,8 +35,8 @@ Date,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2023-02-21,11,6,8,0,1018,87,cloudy
 2023-02-20,13,8,11,1,1025,68,partly cloudy
 2023-02-19,13,6,12,2,1027,65,partly cloudy
-2023-02-18,14,9,16,0,1019,86,cloudy/windy
-2023-02-17,14,9,20,1,1018,84,cloudy/windy
+2023-02-18,14,9,16,0,1019,86,cloudy/wind
+2023-02-17,14,9,20,1,1018,84,cloudy/wind
 2023-02-16,13,6,12,0,1018,92,cloudy
 2023-02-15,13,1,7,0,1023,92,mostly cloudy
 2023-02-14,12,0,5,1,1031,97,mostly sunny/fog
@@ -53,7 +53,7 @@ Date,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2023-02-03,12,6,13,1,1030,76,cloudy
 2023-02-02,12,6,15,1,1025,74,cloudy/breezy
 2023-02-01,9,4,16,0,1022,83,partly cloudy/breezy
-2023-01-31,10,3,14,0,1023,91,cloudy/windy
+2023-01-31,10,3,14,0,1023,91,cloudy/wind
 2023-01-30,8,3,15,1,1024,78,partly cloudy/wind
 2023-01-29,9,3,14,0,1021,86,mostly cloudy
 2023-01-28,6,1,6,0,1032,83,partly cloudy
