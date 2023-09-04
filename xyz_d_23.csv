@@ -1,6 +1,6 @@
 Date,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 
-2023-09-04,27,13,1,x,xxxx,xx,xxxxx
+2023-09-04,27,13,1,0,xxxx,xx,xxxxx
 2023-09-03,26,11,4,4,1027,78,sunny
 2023-09-02,23,14,10,4,1021,81,partly cloudy
 2023-09-01,21,13,6,4,1011,86,mostly cloudy/morning drizzles
