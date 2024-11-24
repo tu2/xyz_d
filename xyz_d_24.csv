@@ -1,6 +1,6 @@
 Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
-
-2024-11-23,14,1,24,1,1001,89,rain/windy
+2024-11-24,15,10,29,1,992,89,rain/WIND
+2024-11-23,14,1,24,1,1001,89,rain/WIND
 2024-11-22,5,0,17,1,1006,85,sunny/morning windy
 2024-11-21,3,-2,15,1,1002,87,sunny/evening windy
 2024-11-20,3,-1,12,1,1009,82,sunny/windy
