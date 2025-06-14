@@ -1,6 +1,7 @@
 Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 
-2025-05-13,25,14,12,6,1017,59,partly cloudy/windy morning
+2025-06-14,23,14,18,6,1014,61,mostly sunny/wind
+2025-06-13,25,14,12,6,1017,59,partly cloudy/windy morning/night rain
 2025-06-12,23,12,15,5,1013,65,mostly cloudy/windy
 2025-06-11,23,9,13,6,1019,63,mostly sunny/windy
 2025-06-10,20,11,14,5,1016,62,mostly sunny/windy
@@ -13,6 +14,7 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2025-06-03,19,10,21,5,1005,68,cloudy/windy/morning rain
 2025-06-02,19,9,12,4,1015,53,partly cloudy/windy
 2025-06-01,19,11,19,4,1013,58,mostly sunny/windy
+*,*,*,*,*,*,*,June
 2025-05-31,24,13,14,6,1016,63,partly cloudy/windy
 2025-05-30,21,13,14,4,1018,68,partly cloudy/windy
 2025-05-29,21,12,19,4,1017,72,partly cloudy/windy
