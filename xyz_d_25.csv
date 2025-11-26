@@ -1,6 +1,7 @@
 Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 
-2025-11-15,7,2,14,1,1014,81,partly cloudy
+2025-11-16,8,-1,14,1,1020,85,partly cloudy/evening rain
+2025-11-15,7,2,14,1,1014,81,mostly cloudy
 2025-11-24,7,3,16,1,994,89,mostly cloudy
 2025-11-23,8,4,18,1,998,85,mostly sunny/morning rain/windy
 2025-11-22,8,1,18,1,1016,90,cloudy/rain/windy
@@ -25,7 +26,7 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2025-11-03,15,7,20,1,1010,81,cloudy/windy
 2025-11-02,11,6,14,1,1007,79,mostly sunny
 2025-11-01,13,7,21,1,1000,80,partly cloudy/windy/evening rain
-*,*,*,*,*,*,*,October
+*,*,*,*,*,*,*,November
 2025-10-31,15,12,21,1,1000,87,cloudy/windy/rain evening
 2025-10-30,12,6,18,1,1005,83,cloudy/windy/rain
 2025-10-29,11,6,13,1,1000,89,cloudy/rain/windy
@@ -57,7 +58,7 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2025-10-03,18,14,25,3,1009,93,cloudy/WIND/rain
 2025-10-02,19,10,16,3,1021,76,cloudy
 2025-10-01,19,8,5,3,1025,67,partly cloudy
-*,*,*,*,*,*,*,September
+*,*,*,*,*,*,*,October
 2025-09-30,18,6,6,3,1026,68,partly cloudy
 2025-09-29,17,5,5,3,1025,71,sunny morning/cloudy afternoon
 2025-09-28,17,9,7,3,1021,77,morning rain/partly cloudy
@@ -88,6 +89,7 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2025-09-03,19,15,20,3,995,82,partly cloudy/windy/morning rain
 2025-09-02,18,11,12,3,1002,79,mostly cloudy/rain afternoon
 2025-09-01,20,13,18,3,1001,70,partly cloudy/windy/some drizzle
+*,*,*,*,*,*,*,September
 2025-08-31,20,13,18,4,1002,68,mostly sunny/windy
 2025-08-30,21,13,18,4,1001,71,partly cloudy morning/rain/windy
 2025-08-29,19,13,10,3,996,79,cloudy/rain
