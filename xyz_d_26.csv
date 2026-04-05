@@ -95,4 +95,5 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-04-01,13,7,12,3,1026,75,cloudy/windy
 2026-04-02,10,5,10,3,1021,69,sunny
 2026-04-03,15,7,23,2,1010,80,cloudy/windy
-2026-04-04,16,6,27,3,1012,74,mostly cloudy/windy
+2026-04-04,16,6,27,3,1012,74,mostly cloudy/windy/storm DAVE
+2026-04-05,11,4,23,3,1014,60,partly cloudy/windy/storm DAVE
