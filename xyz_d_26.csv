@@ -123,6 +123,7 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-04-28,14,7,19,4,1026,65,partly cloudy/windy
 2026-04-29,17,6,21,5,1026,45,sunny/windy
 2026-04-30,20,6,17,5,1024,45,sunny/windy
+*,*,*,*,*,*,*,May
 2026-05-01,23,6,12,5,1020,51,sunny/windy
 2026-05-02,20,9,7,4,1015,62,mostly cloudy/evening rain
 2026-05-03,19,12,7,4,1009,66,cloudy
@@ -130,4 +131,5 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-05-05,16,10,7,3,1013,63,mostly cloudy
 2026-05-06,14,8,9,4,1013,62,cloudy/windy
 2026-05-07,16,8,7,3,1016,61,mostly sunny
-2026-05-08,18,8,7,4,1017,57,partly cloudy
+2026-05-08,18,8,7,4,1017,57,mostly sunny
+2025-05-09,20,9,9,4,1018,50, partly cloudy/windy
