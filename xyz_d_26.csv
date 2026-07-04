@@ -155,6 +155,7 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-05-29,23,14,11,4,1021,59,mostly sunny
 2026-05-30,25,10,7,4,1020,52,mostly sunny
 2026-05-31,21,14,13,4,1015,58,mostly cloudy
+*,*,*,*,*,*,*,June
 2026-06-01,21,12,14,4,1013,68,cloudy/evening rain
 2026-06-02,19,13,12,3,1003,75,mostly cloudy/windy
 2026-06-03,19,12,21,4,1001,77,mostly cloudy/windy/showers
@@ -185,6 +186,8 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-06-28,24,15,16,5,1017,57,mostly sunny/windy
 2026-06-29,23,12,9,4,1025,55,partly cloudy
 2026-06-30,23,14,11,5,1022,57,partly cloudy/windy/evening light rain
+*,*,*,*,*,*,*,July
 2026-07-01,24,14,13,5,1023,62,partly cloudy/windy
 2026-07-02,23,14,18,7,1021,52,mostly sunny/windy
-2026-07-03,25,10,11,4,1029,51,mostly cloudy
+2026-07-03,25,10,11,4,1029,51,mostly sunny
+2026-07-04,25,14,16,5,1025,60,mostly sunny/windy
