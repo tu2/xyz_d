@@ -232,4 +232,5 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-08-11,27,12,12,6,1024,50,sunny/HOT
 2026-08-12,34,13,9,6,1023,45,sunny/HOT
 2026-08-13,37,17,9,6,1020,36,sunny/HOT HOT
-2026-08-14,34,19,13,4,1017,51,sunny/HOT
+2026-08-14,34,19,13,4,1017,51,mostly sunny/windy/HOT
+2026-08-15,26,17,9,4,1018,58,partly cloudy
