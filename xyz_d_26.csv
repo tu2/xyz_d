@@ -253,4 +253,5 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 *,*,*,*,*,*,*,September
 2026-09-01,21,14,12,4,1019,66,partly cloudy
 2026-09-02,20,14,14,3,1017,84,cloudy/light rain
-2026-09-03,23,17,16,4,1015,70,cloudy/windy
+2026-09-03,23,17,16,4,1015,70,partly cloudy/windy
+2026-09-04,20,14,19,3,1012,71,cloudy/windy/morning rain
