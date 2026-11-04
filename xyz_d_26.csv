@@ -315,4 +315,5 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-10-31,13,8,6,1,1032,87,morning fog/cloudy
 2026-11-01,11,8,13,1,1034,91,morning fog/cloudy
 2026-11-02,12,7,15,1,1037,77,partly cloudy/windy
-2026-11-03,12,7,13,1,1032,81,cloudy,light rain
+2026-11-03,12,7,13,1,1032,81,cloudy/light rain
+2026-11-04,11,6,15,1,1031,81,cloudy/windy
