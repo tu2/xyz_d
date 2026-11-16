@@ -328,4 +328,5 @@ Date y-m-d,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 2026-11-12,7,1,13,1,1006,78,sunny/windy
 2026-11-13,7,0,7,1,1017,78,sunny
 2026-11-14,8,-1,7,1,1015,84,mostly sunny
-2026-11-15,8,1,14,1,999,94,cloudy/rain
+2026-11-15,8,1,14,1,999,94,cloudy/light rain
+2026-11-16,7,1,15,1,1003,83,partly cloudy/evening rain
